@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Speaker",
+    "slug": "speaker-app",
+    "scheme": "speaker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android"
+    ],
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "173e0618-702f-4890-9a18-05af1963b950"
+      }
+    }
+  }
+}
